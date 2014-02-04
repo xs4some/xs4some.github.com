@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[xs4some]]></title>
-  <link href="http://xs4some.github.com/atom.xml" rel="self"/>
-  <link href="http://xs4some.github.com/"/>
-  <updated>2014-02-04T16:08:12+01:00</updated>
-  <id>http://xs4some.github.com/</id>
+  <link href="http://xs4some.nl/atom.xml" rel="self"/>
+  <link href="http://xs4some.nl/"/>
+  <updated>2014-02-04T19:33:30+01:00</updated>
+  <id>http://xs4some.nl/</id>
   <author>
     <name><![CDATA[Hendrik Bruinsma]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[New provider]]></title>
-    <link href="http://xs4some.github.com/blog/2012/12/27/new-provider/"/>
+    <link href="http://xs4some.nl/blog/2012/12/27/new-provider/"/>
     <updated>2012-12-27T19:22:00+01:00</updated>
-    <id>http://xs4some.github.com/blog/2012/12/27/new-provider</id>
+    <id>http://xs4some.nl/blog/2012/12/27/new-provider</id>
     <content type="html"><![CDATA[<p>After being a customer of <a href="http://xs4all.nl">XS4all</a> for several years, the difference in speed was getting larger and larger. And they didn&#8217;t add anything to make the loss of speed nor the extra costs worth while. So we switched back to <a href="http://ziggo">Ziggo</a>. It is realy nice to have a reasonable speed!</p>
 
 
@@ -28,27 +28,27 @@
   
   <entry>
     <title type="html"><![CDATA[Nice typewriter iPad stand!]]></title>
-    <link href="http://xs4some.github.com/blog/2012/08/22/nice-typewriter-ipad-stand/"/>
+    <link href="http://xs4some.nl/blog/2012/08/22/nice-typewriter-ipad-stand/"/>
     <updated>2012-08-22T00:00:00+02:00</updated>
-    <id>http://xs4some.github.com/blog/2012/08/22/nice-typewriter-ipad-stand</id>
+    <id>http://xs4some.nl/blog/2012/08/22/nice-typewriter-ipad-stand</id>
     <content type="html"><![CDATA[<a href="http://www.austin-yang.com/index.php?/projects/iturntable/">Nice typewriter iPad stand!</a><br/><p><img height="266" src="http://www.austin-yang.com/files/gimgs/10_img3704_v4.jpg" width="400"/></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Nice subscription! 500 GiB for only € 10!]]></title>
-    <link href="http://xs4some.github.com/blog/2011/07/04/nice-subscription-500-gib-for-only--10/"/>
+    <link href="http://xs4some.nl/blog/2011/07/04/nice-subscription-500-gib-for-only--10/"/>
     <updated>2011-07-04T00:00:00+02:00</updated>
-    <id>http://xs4some.github.com/blog/2011/07/04/nice-subscription-500-gib-for-only&#8211;10</id>
+    <id>http://xs4some.nl/blog/2011/07/04/nice-subscription-500-gib-for-only&#8211;10</id>
     <content type="html"><![CDATA[<a href="http://www.vodafone.nl/shop/category/mobiel+internet/cat10670018/ipad-abonnementen/cat41390006/"><img src="http://25.media.tumblr.com/tumblr_lntjh3Yeez1qap3zco1_400.png"/></a>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[15" MacBook Pro, 2.4 GHz i5, 4Gb, 320 Gb, Applecare till January 7, 2014]]></title>
-    <link href="http://xs4some.github.com/blog/2011/05/15/15-macbook-pro-24-ghz-i5-4gb-320-gb-applecare-till-january-7-2014/"/>
+    <link href="http://xs4some.nl/blog/2011/05/15/15-macbook-pro-24-ghz-i5-4gb-320-gb-applecare-till-january-7-2014/"/>
     <updated>2011-05-15T00:00:00+02:00</updated>
-    <id>http://xs4some.github.com/blog/2011/05/15/15-macbook-pro-24-ghz-i5-4gb-320-gb-applecare-till-january-7-2014</id>
+    <id>http://xs4some.nl/blog/2011/05/15/15-macbook-pro-24-ghz-i5-4gb-320-gb-applecare-till-january-7-2014</id>
     <content type="html"><![CDATA[<p>As I&#8217;m to switch to a MacBook Air and a Mac Mini, I&#8217;m putting my relatively new MacBook Pro for sale, inclusive AppleCare until January 7, 2014!</p>
 <p>Including all original software and accessoires (e.g. Mac OS X 10.6, iLife &#8216;11, power adapter and original box).<img height="271" width="450" alt="MacBook pro" src="http://www.sweetwater.com/images/items/1800/MBP15i5-24-xlarge.jpg" align="middle"/></p>
 ]]></content>
@@ -56,18 +56,18 @@
   
   <entry>
     <title type="html"><![CDATA[WWDC 2011 is in my virtual pocket!]]></title>
-    <link href="http://xs4some.github.com/blog/2011/03/30/wwdc-2011-is-in-my-virtual-pocket/"/>
+    <link href="http://xs4some.nl/blog/2011/03/30/wwdc-2011-is-in-my-virtual-pocket/"/>
     <updated>2011-03-30T00:00:00+02:00</updated>
-    <id>http://xs4some.github.com/blog/2011/03/30/wwdc-2011-is-in-my-virtual-pocket</id>
+    <id>http://xs4some.nl/blog/2011/03/30/wwdc-2011-is-in-my-virtual-pocket</id>
     <content type="html"><![CDATA[<img src="http://25.media.tumblr.com/tumblr_livb676gC31qap3zco1_500.png"/>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[For sale: Macbook Pro 15.4" 2.53 GHz, 4/320GB-MB471LL/A  ]]></title>
-    <link href="http://xs4some.github.com/blog/2011/01/04/for-sale-macbook-pro-154-253-ghz-4320gb-mb471lla/"/>
+    <link href="http://xs4some.nl/blog/2011/01/04/for-sale-macbook-pro-154-253-ghz-4320gb-mb471lla/"/>
     <updated>2011-01-04T00:00:00+01:00</updated>
-    <id>http://xs4some.github.com/blog/2011/01/04/for-sale-macbook-pro-154-253-ghz-4320gb-mb471lla</id>
+    <id>http://xs4some.nl/blog/2011/01/04/for-sale-macbook-pro-154-253-ghz-4320gb-mb471lla</id>
     <content type="html"><![CDATA[<p>As I try to update my Mac every two years, it&#8217;s time to sell my Mac again.</p>
 <ul><li>15.4&#8221; Macbook Pro;</li>
 <li>Intel Core 2 Duo 2.53&#160;GHz cpu (&#8220;Penryn&#8221; T9400) with 6MB cache;</li>
@@ -86,9 +86,9 @@
   
   <entry>
     <title type="html"><![CDATA[Swipe gestures in Cocoa touch]]></title>
-    <link href="http://xs4some.github.com/blog/2010/12/14/swipe-gestures-in-cocoa-touch/"/>
+    <link href="http://xs4some.nl/blog/2010/12/14/swipe-gestures-in-cocoa-touch/"/>
     <updated>2010-12-14T00:00:00+01:00</updated>
-    <id>http://xs4some.github.com/blog/2010/12/14/swipe-gestures-in-cocoa-touch</id>
+    <id>http://xs4some.nl/blog/2010/12/14/swipe-gestures-in-cocoa-touch</id>
     <content type="html"><![CDATA[<p><span>
 <p class="p1">To use swipe gestures on the iOS SDK, you can use the following code to register the listener:</p>
 
@@ -131,27 +131,27 @@
   
   <entry>
     <title type="html"><![CDATA[Venician sunset. Photo taken from the Molino Stucky hotel in Venice during a #sogeti work trip.]]></title>
-    <link href="http://xs4some.github.com/blog/2010/12/08/venician-sunset-photo-taken-from-the-molino-stucky-hotel-in-venice-during-a-sogeti-work-trip/"/>
+    <link href="http://xs4some.nl/blog/2010/12/08/venician-sunset-photo-taken-from-the-molino-stucky-hotel-in-venice-during-a-sogeti-work-trip/"/>
     <updated>2010-12-08T00:00:00+01:00</updated>
-    <id>http://xs4some.github.com/blog/2010/12/08/venician-sunset-photo-taken-from-the-molino-stucky-hotel-in-venice-during-a-sogeti-work-trip</id>
+    <id>http://xs4some.nl/blog/2010/12/08/venician-sunset-photo-taken-from-the-molino-stucky-hotel-in-venice-during-a-sogeti-work-trip</id>
     <content type="html"><![CDATA[<img src="http://www.tumblr.com/photo/1280/hbruinsma/2146138369/1/tumblr_ld4nr4inyq1qap3zc"/>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[iPads!]]></title>
-    <link href="http://xs4some.github.com/blog/2010/09/24/ipads/"/>
+    <link href="http://xs4some.nl/blog/2010/09/24/ipads/"/>
     <updated>2010-09-24T00:00:00+02:00</updated>
-    <id>http://xs4some.github.com/blog/2010/09/24/ipads</id>
+    <id>http://xs4some.nl/blog/2010/09/24/ipads</id>
     <content type="html"><![CDATA[<img src="http://25.media.tumblr.com/tumblr_livjlqopYL1qap3zco1_500.jpg"/>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[iPhone, iPad, etc.]]></title>
-    <link href="http://xs4some.github.com/blog/2010/06/29/iphone-ipad-etc/"/>
+    <link href="http://xs4some.nl/blog/2010/06/29/iphone-ipad-etc/"/>
     <updated>2010-06-29T00:00:00+02:00</updated>
-    <id>http://xs4some.github.com/blog/2010/06/29/iphone-ipad-etc</id>
+    <id>http://xs4some.nl/blog/2010/06/29/iphone-ipad-etc</id>
     <content type="html"><![CDATA[<p>Although I try to regularly update this weblog, I can&#8217;t find time to do this.</p>
 
 <p>The last few weeks I visited an other company which creates uniform mobile application. Looking back at the previous <a href="http://www.xs4some.nl/archives/hobbies/apple/multiplatform-mobile-solutions">company</a> we visited, this company is miles ahead of them. The applications run smoothly and look like they have been created specially for the platform it runs in. Also the development tools are more mature, as they use proven technologies like the IDE <a href="http://eclipse.org/">Eclipse</a>.</p>
@@ -164,18 +164,18 @@
   
   <entry>
     <title type="html"><![CDATA[POC for financial client]]></title>
-    <link href="http://xs4some.github.com/blog/2010/06/08/poc-for-financial-client/"/>
+    <link href="http://xs4some.nl/blog/2010/06/08/poc-for-financial-client/"/>
     <updated>2010-06-08T00:00:00+02:00</updated>
-    <id>http://xs4some.github.com/blog/2010/06/08/poc-for-financial-client</id>
+    <id>http://xs4some.nl/blog/2010/06/08/poc-for-financial-client</id>
     <content type="html"><![CDATA[<p>For this morning, we had an appointment with a financial client to create a POC for the iPhone, iPad and BlackBerry devices. The iPhone and iPad applications where quickly deployed, but the BlackBerry gave us some trouble. Although this was solved hours before the deadline. For now, we wait.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Sales app]]></title>
-    <link href="http://xs4some.github.com/blog/2010/06/02/sales-app/"/>
+    <link href="http://xs4some.nl/blog/2010/06/02/sales-app/"/>
     <updated>2010-06-02T00:00:00+02:00</updated>
-    <id>http://xs4some.github.com/blog/2010/06/02/sales-app</id>
+    <id>http://xs4some.nl/blog/2010/06/02/sales-app</id>
     <content type="html"><![CDATA[<p>Today we presented an internal application for our sales division. This application is intended to support our sales division on the road and is intended to run on the iPhone. We created the application within two weeks. During these two weeks, a noticed again that it is hard to get access to all the information you need and in the way you need it.</p>
 
 <p>Lets create more apps! Anyone any suggestions?</p>
@@ -184,18 +184,18 @@
   
   <entry>
     <title type="html"><![CDATA[Multiplatform mobile solutions]]></title>
-    <link href="http://xs4some.github.com/blog/2010/05/26/multiplatform-mobile-solutions/"/>
+    <link href="http://xs4some.nl/blog/2010/05/26/multiplatform-mobile-solutions/"/>
     <updated>2010-05-26T00:00:00+02:00</updated>
-    <id>http://xs4some.github.com/blog/2010/05/26/multiplatform-mobile-solutions</id>
+    <id>http://xs4some.nl/blog/2010/05/26/multiplatform-mobile-solutions</id>
     <content type="html"><![CDATA[<p>Today we went to a company which has a product to quickly deploy mobile application over five platforms. It look very promising, although there are some drawbacks. Because the application is party deployed as a web application, the applications don&#8217;t respond as quickly as you&#8217;d like. But on the other side, you can create application very quickly.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Hannah]]></title>
-    <link href="http://xs4some.github.com/blog/2010/01/06/hannah/"/>
+    <link href="http://xs4some.nl/blog/2010/01/06/hannah/"/>
     <updated>2010-01-06T00:00:00+01:00</updated>
-    <id>http://xs4some.github.com/blog/2010/01/06/hannah</id>
+    <id>http://xs4some.nl/blog/2010/01/06/hannah</id>
     <content type="html"><![CDATA[<p>On monday January 4 on 9.40, our daughter Hannah was born. She came into this world by an SC. Mother and doughter have to remain in the hospital, so my wife can recover from the SC.</p>
 <p>Yesterday I went to the city hall to register her birth. Her full name is Hannah Judith Hester Geartsje.</p>
 <p><img src="http://lh6.ggpht.com/_ZLNFdmLtkn0/TP89rZRVxDI/AAAAAAAABps/8oi_ZCTXpPo/s640/p_2048_1536_784E21B2-BDE8-4C7D-8BEB-3E9C9B2E4EDA.jpeg" alt="Hannah" width="480" height="640"/></p>
@@ -204,9 +204,9 @@
   
   <entry>
     <title type="html"><![CDATA[Update on 'Humphrey']]></title>
-    <link href="http://xs4some.github.com/blog/2009/09/25/update-on-humphrey/"/>
+    <link href="http://xs4some.nl/blog/2009/09/25/update-on-humphrey/"/>
     <updated>2009-09-25T00:00:00+02:00</updated>
-    <id>http://xs4some.github.com/blog/2009/09/25/update-on-humphrey</id>
+    <id>http://xs4some.nl/blog/2009/09/25/update-on-humphrey</id>
     <content type="html"><![CDATA[<p>Here are some &#8216;new&#8217; pictures of <em>Humphrey</em>. They&#8217;re not new, but I just didn&#8217;t make any time to put them online. On the pictures the baby is about twenty weeks old.</p>
 
 <p>[gallery]</p>
@@ -215,27 +215,27 @@
   
   <entry>
     <title type="html"><![CDATA[Expected half December]]></title>
-    <link href="http://xs4some.github.com/blog/2009/07/05/expected-half-december/"/>
+    <link href="http://xs4some.nl/blog/2009/07/05/expected-half-december/"/>
     <updated>2009-07-05T00:00:00+02:00</updated>
-    <id>http://xs4some.github.com/blog/2009/07/05/expected-half-december</id>
+    <id>http://xs4some.nl/blog/2009/07/05/expected-half-december</id>
     <content type="html"><![CDATA[<p><img class="size-full wp-image-154 alignnone" src="http://www.xs4some.nl/log/uploads/2009/07/20090603-echo_2.png" alt="Echo" width="425" height="321"/></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Our holiday to Tuscany]]></title>
-    <link href="http://xs4some.github.com/blog/2009/06/02/our-holiday-to-tuscany/"/>
+    <link href="http://xs4some.nl/blog/2009/06/02/our-holiday-to-tuscany/"/>
     <updated>2009-06-02T00:00:00+02:00</updated>
-    <id>http://xs4some.github.com/blog/2009/06/02/our-holiday-to-tuscany</id>
+    <id>http://xs4some.nl/blog/2009/06/02/our-holiday-to-tuscany</id>
     <content type="html"><![CDATA[<p>Last week we went on a holiday to Tuscany. Pictures can be found <a title="Tuscany 2009" href="http://www.xs4some.nl/foto/Feauteau/Toscane_mei_2009.html">here</a>.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Skydive]]></title>
-    <link href="http://xs4some.github.com/blog/2009/05/03/skydive/"/>
+    <link href="http://xs4some.nl/blog/2009/05/03/skydive/"/>
     <updated>2009-05-03T00:00:00+02:00</updated>
-    <id>http://xs4some.github.com/blog/2009/05/03/skydive</id>
+    <id>http://xs4some.nl/blog/2009/05/03/skydive</id>
     <content type="html"><![CDATA[<p>As you all know, pictures say more then words.  <a href="http://www.flickr.com/photos/hbruinsma/sets/72157617550652347/"><img height="375" width="500" src="http://farm4.static.flickr.com/3575/3496664347_1c5ca275e7.jpg?v=0" title="Skydive" class="alignnone"/></a></p>
 <p>As you might expect, it was awesome! When we jumped out of the <a href="http://images.google.com/images?hl=en&amp;client=safari&amp;rls=en-gb&amp;um=1&amp;sa=1&amp;q=cessna+ph-des&amp;btnG=Search+Images&amp;aq=f&amp;oq=">airplane</a>, we started the free fall with some rolls. After those rolls we continued a ‘normal’ free fall. Unfortunately, the free fall was ended very soon “ time flies, you know “ and we started our descent to the Marklin like playground with Dutch trains on it.</p>
 <p>If you ever get the change to jump, do it! It’s awesome!</p>
@@ -244,9 +244,9 @@
   
   <entry>
     <title type="html"><![CDATA[Visiting Dr. Moller]]></title>
-    <link href="http://xs4some.github.com/blog/2009/01/30/visiting-dr-moller/"/>
+    <link href="http://xs4some.nl/blog/2009/01/30/visiting-dr-moller/"/>
     <updated>2009-01-30T00:00:00+01:00</updated>
-    <id>http://xs4some.github.com/blog/2009/01/30/visiting-dr-moller</id>
+    <id>http://xs4some.nl/blog/2009/01/30/visiting-dr-moller</id>
     <content type="html"><![CDATA[<p>Tomorrow I&#8217;ll be visiting a local Scouting group called <a href="http://www.drmoller.nl/">Dr. Moller</a>.</p>
 
 <p>As I have been a cup scout leader for some year, but since we moved I stoped. The traveltime was outragious (two-and-a-half hours for a single trip)</p>
@@ -257,9 +257,9 @@
   
   <entry>
     <title type="html"><![CDATA[Jippie!]]></title>
-    <link href="http://xs4some.github.com/blog/2009/01/28/jippie/"/>
+    <link href="http://xs4some.nl/blog/2009/01/28/jippie/"/>
     <updated>2009-01-28T00:00:00+01:00</updated>
-    <id>http://xs4some.github.com/blog/2009/01/28/jippie</id>
+    <id>http://xs4some.nl/blog/2009/01/28/jippie</id>
     <content type="html"><![CDATA[<p>Woehoe!<br/>
 As you may have read, I&#8217;ve sold my old macbook Pro yesterday. And today I noticed that shop called <em>Mediamarkt</em> has an action that all laptops are sold VAT free. In the Netherlands, that means a 19% discount.<br/>
 Unfortunately, the version I wanted to buy was sold out. (The cheapest version of the macbook pro) And thus I bought the midrange version of the 15.4&#8221; macbook pro!</p>
