@@ -14,4 +14,4 @@ I do Objective-C on a daily basis :)
 Support or Contact
 ==================
 
-If you want to contact me, just send me an e-mail to [hbruinsma@xs4some.nl](mailto:hbruinsma@xs4some.nl)
+If you want to contact me, just send an e-mail to [hbruinsma@xs4some.nl](mailto:hbruinsma@xs4some.nl)
