@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://xs4some.github.com/sitemap.xml 
