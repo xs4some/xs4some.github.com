@@ -1,0 +1,31 @@
+---
+layout: post
+title: Swipe gestures in Cocoa touch
+date: '2010-12-14'
+tags:
+- iphone
+- ios
+- objective c
+- cocoa
+---
+<p><span>
+<p class="p1">To use swipe gestures on the iOS SDK, you can use the following code to register the listener:</p>
+
+{% codeblock Swipe gestures in Objective-C lang:objc %}
+UISwipeGestureRecognizer *swipeRight = [[UISwipeGestureRecognizer alloc]initWithTarget:self action:@selector(swipeRightAction:)];
+
+swipeRight.direction = UISwipeGestureRecognizerDirectionRight;
+
+swipeRight.delegate = self;
+
+[self.view addGestureRecognizer:swipeRight];
+
+
+UISwipeGestureRecognizer *swipeLeft = [[UISwipeGestureRecognizer alloc]initWithTarget:self action:@selector(swipeLeftAction:)];
+
+swipeLeft.direction = UISwipeGestureRecognizerDirectionLeft;
+
+swipeLeft.delegate = self;
+
+[self.view addGestureRecognizer:swipeLeft]; 
+{% endcodeblock %}
