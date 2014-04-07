@@ -4,7 +4,7 @@
   <title><![CDATA[xs4some]]></title>
   <link href="http://xs4some.nl/atom.xml" rel="self"/>
   <link href="http://xs4some.nl/"/>
-  <updated>2014-02-04T20:09:14+01:00</updated>
+  <updated>2014-04-07T13:34:27+02:00</updated>
   <id>http://xs4some.nl/</id>
   <author>
     <name><![CDATA[Hendrik Bruinsma]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[New theme]]></title>
+    <link href="http://xs4some.nl/blog/2014/04/06/new-theme/"/>
+    <updated>2014-04-06T19:23:00+02:00</updated>
+    <id>http://xs4some.nl/blog/2014/04/06/new-theme</id>
+    <content type="html"><![CDATA[<p>Some time ago, I started using <a href="http://octopress.org/">Octopress</a> to generate my website. Now I finally to the time the install a theme, so it looks less generic.</p>
+
+<p>One thing I pertically like about Octopress, is the use of <a href="https://daringfireball.net/projects/markdown/">Markdown</a> to write posts and pages. It really beats HTML, as only the content is part of your post instead of being little collections of HTML code.</p>
+
+<p>Another thing: as it only generates flat HTML files, this save you time on installing security updates and it can be set-up to host on <a href="https://github.com">GitHub</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Finally FttH]]></title>
+    <link href="http://xs4some.nl/blog/2014/04/04/finaly-ftth/"/>
+    <updated>2014-04-04T20:04:00+02:00</updated>
+    <id>http://xs4some.nl/blog/2014/04/04/finaly-ftth</id>
+    <content type="html"><![CDATA[<p>Finally <abbr title="Fiber to the Home">FttH</abbr>!</p>
+
+<p>Just a week or so, and then they&#8217;ll finaly put fiber in our streets. I can&#8217;t wait to finaly have a proper internet connection (with symetric speeds).</p>
+
+<p>My current connection runs over the cable network provided by <a href="http://www.ziggo.nl">Ziggo</a>, which is better then any ADSL connection I can get here, but it&#8217;s still not very good. The problem is probably due to the cable sharing with the neighbours, or water in the cable.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[New provider]]></title>
@@ -239,30 +265,6 @@
     <content type="html"><![CDATA[<p>As you all know, pictures say more then words.  <a href="http://www.flickr.com/photos/hbruinsma/sets/72157617550652347/"><img height="375" width="500" src="http://farm4.static.flickr.com/3575/3496664347_1c5ca275e7.jpg?v=0" title="Skydive" class="alignnone"/></a></p>
 <p>As you might expect, it was awesome! When we jumped out of the <a href="http://images.google.com/images?hl=en&amp;client=safari&amp;rls=en-gb&amp;um=1&amp;sa=1&amp;q=cessna+ph-des&amp;btnG=Search+Images&amp;aq=f&amp;oq=">airplane</a>, we started the free fall with some rolls. After those rolls we continued a ‘normal’ free fall. Unfortunately, the free fall was ended very soon “ time flies, you know “ and we started our descent to the Marklin like playground with Dutch trains on it.</p>
 <p>If you ever get the change to jump, do it! It’s awesome!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Visiting Dr. Moller]]></title>
-    <link href="http://xs4some.nl/blog/2009/01/30/visiting-dr-moller/"/>
-    <updated>2009-01-30T00:00:00+01:00</updated>
-    <id>http://xs4some.nl/blog/2009/01/30/visiting-dr-moller</id>
-    <content type="html"><![CDATA[<p>Tomorrow I&#8217;ll be visiting a local Scouting group called <a href="http://www.drmoller.nl/">Dr. Moller</a>.</p>
-
-<p>As I have been a cup scout leader for some year, but since we moved I stoped. The traveltime was outragious (two-and-a-half hours for a single trip)</p>
-
-<p>I&#8217;m a little bit exited, as I have no idea what kind of group this is. Also there&#8217;s not a real address to be found, only some vague direction. Hopefully they&#8217;ll get me there :D</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Jippie!]]></title>
-    <link href="http://xs4some.nl/blog/2009/01/28/jippie/"/>
-    <updated>2009-01-28T00:00:00+01:00</updated>
-    <id>http://xs4some.nl/blog/2009/01/28/jippie</id>
-    <content type="html"><![CDATA[<p>Woehoe!<br/>
-As you may have read, I&#8217;ve sold my old macbook Pro yesterday. And today I noticed that shop called <em>Mediamarkt</em> has an action that all laptops are sold VAT free. In the Netherlands, that means a 19% discount.<br/>
-Unfortunately, the version I wanted to buy was sold out. (The cheapest version of the macbook pro) And thus I bought the midrange version of the 15.4&#8221; macbook pro!</p>
 ]]></content>
   </entry>
   
