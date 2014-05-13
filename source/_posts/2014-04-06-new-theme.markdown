@@ -1,0 +1,14 @@
+---
+layout: post
+title: "New theme"
+date: 2014-04-06 19:23
+comments: true
+categories: 
+---
+Some time ago, I started using [Octopress](http://octopress.org/) to generate my website. Now I finally to the time the install a theme, so it looks less generic.
+
+
+One thing I pertically like about Octopress, is the use of [Markdown](https://daringfireball.net/projects/markdown/) to write posts and pages. It really beats HTML, as only the content is part of your post instead of being little collections of HTML code.
+
+
+Another thing: as it only generates flat HTML files, this save you time on installing security updates and it can be set-up to host on [GitHub](https://github.com).
