@@ -4,7 +4,7 @@
   <title><![CDATA[xs4some]]></title>
   <link href="http://xs4some.nl/atom.xml" rel="self"/>
   <link href="http://xs4some.nl/"/>
-  <updated>2014-04-07T13:34:27+02:00</updated>
+  <updated>2014-05-13T12:41:25+02:00</updated>
   <id>http://xs4some.nl/</id>
   <author>
     <name><![CDATA[Hendrik Bruinsma]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Fiber is coming!]]></title>
+    <link href="http://xs4some.nl/blog/2014/05/13/fiber-is-coming/"/>
+    <updated>2014-05-13T12:17:00+02:00</updated>
+    <id>http://xs4some.nl/blog/2014/05/13/fiber-is-coming</id>
+    <content type="html"><![CDATA[<p>I&#8217;ve waited long for it, but &#8220;Fiber is coming&#8222;!</p>
+
+<p>Only one street away, and on Friday the will start putting fiber in our street! Can&#8217;t to finaly have a proper connection and leave an era of cable behind me.</p>
+
+<p>When I first got cable internet (1999), it was a bliss! Internet for a fixed price a month! It has been a lot of years, and still cable isn&#8217;t offering symetric connections.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[New theme]]></title>
@@ -254,17 +267,6 @@
     <updated>2009-06-02T00:00:00+02:00</updated>
     <id>http://xs4some.nl/blog/2009/06/02/our-holiday-to-tuscany</id>
     <content type="html"><![CDATA[<p>Last week we went on a holiday to Tuscany. Pictures can be found <a title="Tuscany 2009" href="http://www.xs4some.nl/foto/Feauteau/Toscane_mei_2009.html">here</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Skydive]]></title>
-    <link href="http://xs4some.nl/blog/2009/05/03/skydive/"/>
-    <updated>2009-05-03T00:00:00+02:00</updated>
-    <id>http://xs4some.nl/blog/2009/05/03/skydive</id>
-    <content type="html"><![CDATA[<p>As you all know, pictures say more then words.  <a href="http://www.flickr.com/photos/hbruinsma/sets/72157617550652347/"><img height="375" width="500" src="http://farm4.static.flickr.com/3575/3496664347_1c5ca275e7.jpg?v=0" title="Skydive" class="alignnone"/></a></p>
-<p>As you might expect, it was awesome! When we jumped out of the <a href="http://images.google.com/images?hl=en&amp;client=safari&amp;rls=en-gb&amp;um=1&amp;sa=1&amp;q=cessna+ph-des&amp;btnG=Search+Images&amp;aq=f&amp;oq=">airplane</a>, we started the free fall with some rolls. After those rolls we continued a ‘normal’ free fall. Unfortunately, the free fall was ended very soon “ time flies, you know “ and we started our descent to the Marklin like playground with Dutch trains on it.</p>
-<p>If you ever get the change to jump, do it! It’s awesome!</p>
 ]]></content>
   </entry>
   
