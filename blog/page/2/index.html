@@ -124,6 +124,93 @@
 
   <header>
     
+      <h1 class="entry-title"><a href="/blog/2010/12/14/swipe-gestures-in-cocoa-touch/">Swipe Gestures in Cocoa Touch</a></h1>
+    
+    
+      <p class="meta">
+        
+  
+
+
+  
+    <span class="byline author vcard">by <a href="https://plus.google.com/+HendrikBruinsma?rel=author"><span class="fn">Hendrik Bruinsma</span></a></span>
+  
+
+ - 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2010-12-14T00:00:00+01:00" pubdate data-updated="true">Dec 14<span>th</span>, 2010</time> - 
+        
+
+
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><span>
+<p class="p1">To use swipe gestures on the iOS SDK, you can use the following code to register the listener:</p>
+
+<figure class='code'><figcaption><span>Swipe gestures in Objective-C  </span></figcaption>
+ <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+</pre></td><td class='code'><pre><code class='objc'><span class='line'><span class="n">UISwipeGestureRecognizer</span> <span class="o">*</span><span class="n">swipeRight</span> <span class="o">=</span> <span class="p">[[</span><span class="n">UISwipeGestureRecognizer</span> <span class="n">alloc</span><span class="p">]</span><span class="nl">initWithTarget:</span><span class="n">self</span> <span class="nl">action:</span><span class="k">@selector</span><span class="p">(</span><span class="nl">swipeRightAction:</span><span class="p">)];</span>
+</span><span class='line'>
+</span><span class='line'><span class="n">swipeRight</span><span class="p">.</span><span class="n">direction</span> <span class="o">=</span> <span class="n">UISwipeGestureRecognizerDirectionRight</span><span class="p">;</span>
+</span><span class='line'>
+</span><span class='line'><span class="n">swipeRight</span><span class="p">.</span><span class="n">delegate</span> <span class="o">=</span> <span class="n">self</span><span class="p">;</span>
+</span><span class='line'>
+</span><span class='line'><span class="p">[</span><span class="n">self</span><span class="p">.</span><span class="n">view</span> <span class="nl">addGestureRecognizer:</span><span class="n">swipeRight</span><span class="p">];</span>
+</span><span class='line'>
+</span><span class='line'>
+</span><span class='line'><span class="n">UISwipeGestureRecognizer</span> <span class="o">*</span><span class="n">swipeLeft</span> <span class="o">=</span> <span class="p">[[</span><span class="n">UISwipeGestureRecognizer</span> <span class="n">alloc</span><span class="p">]</span><span class="nl">initWithTarget:</span><span class="n">self</span> <span class="nl">action:</span><span class="k">@selector</span><span class="p">(</span><span class="nl">swipeLeftAction:</span><span class="p">)];</span>
+</span><span class='line'>
+</span><span class='line'><span class="n">swipeLeft</span><span class="p">.</span><span class="n">direction</span> <span class="o">=</span> <span class="n">UISwipeGestureRecognizerDirectionLeft</span><span class="p">;</span>
+</span><span class='line'>
+</span><span class='line'><span class="n">swipeLeft</span><span class="p">.</span><span class="n">delegate</span> <span class="o">=</span> <span class="n">self</span><span class="p">;</span>
+</span><span class='line'>
+</span><span class='line'><span class="p">[</span><span class="n">self</span><span class="p">.</span><span class="n">view</span> <span class="nl">addGestureRecognizer:</span><span class="n">swipeLeft</span><span class="p">];</span>
+</span></code></pre></td></tr></table></div></figure>
+</div>
+  
+  
+
+
+</div>
+
+      </article>
+    
+    
+      <article class="span4">
+        <div class="article-format">
+
+  <header>
+    
       <h1 class="entry-title"><a href="/blog/2010/12/08/venician-sunset-photo-taken-from-the-molino-stucky-hotel-in-venice-during-a-sogeti-work-trip/">Venician Sunset. Photo Taken From the Molino Stucky Hotel in Venice During a #sogeti Work Trip.</a></h1>
     
     
@@ -589,57 +676,6 @@
 
       </article>
     
-    
-      <article class="span4">
-        <div class="article-format">
-
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2009/06/02/our-holiday-to-tuscany/">Our Holiday to Tuscany</a></h1>
-    
-    
-      <p class="meta">
-        
-  
-
-
-  
-    <span class="byline author vcard">by <a href="https://plus.google.com/+HendrikBruinsma?rel=author"><span class="fn">Hendrik Bruinsma</span></a></span>
-  
-
- - 
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2009-06-02T00:00:00+02:00" pubdate data-updated="true">Jun 2<span>nd</span>, 2009</time> - 
-        
-
-
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Last week we went on a holiday to Tuscany. Pictures can be found <a title="Tuscany 2009" href="http://www.xs4some.nl/foto/Feauteau/Toscane_mei_2009.html">here</a>.</p>
-</div>
-  
-  
-
-
-</div>
-
-      </article>
-    
     </div>
       <div class="row">
         <ul class="pager">
@@ -667,6 +703,10 @@
     <ul class="recent_posts">
       
         <li>
+          <a href="/blog/2014/07/04/leaving-sogeti/">Leaving Sogeti</a>
+        </li>
+      
+        <li>
           <a href="/blog/2014/05/13/fiber-is-coming/">Fiber is coming!</a>
         </li>
       
@@ -680,10 +720,6 @@
       
         <li>
           <a href="/blog/2012/12/27/new-provider/">New provider</a>
-        </li>
-      
-        <li>
-          <a href="/blog/2012/08/22/nice-typewriter-ipad-stand/">Nice typewriter iPad stand!</a>
         </li>
       
     </ul>

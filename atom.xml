@@ -4,7 +4,7 @@
   <title><![CDATA[xs4some]]></title>
   <link href="http://xs4some.nl/atom.xml" rel="self"/>
   <link href="http://xs4some.nl/"/>
-  <updated>2014-05-13T12:41:25+02:00</updated>
+  <updated>2014-07-05T21:10:56+02:00</updated>
   <id>http://xs4some.nl/</id>
   <author>
     <name><![CDATA[Hendrik Bruinsma]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Leaving Sogeti]]></title>
+    <link href="http://xs4some.nl/blog/2014/07/04/leaving-sogeti/"/>
+    <updated>2014-07-04T00:00:00+02:00</updated>
+    <id>http://xs4some.nl/blog/2014/07/04/leaving-sogeti</id>
+    <content type="html"><![CDATA[<p>After working almost seven years with Sogeti, it&#8217;s time to move on. I&#8217;m going to work for <a href="http://coolblue.nl">Coolblue</a>.</p>
+
+<p>I&#8217;dd like to thank René personaly with this clip:</p>
+
+<iframe width="420" height="345" src="http://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1" frameborder="0" allowfullscreen></iframe>
+
+
+<p>That&#8217;s four René :D</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Fiber is coming!]]></title>
@@ -258,15 +274,6 @@
     <updated>2009-07-05T00:00:00+02:00</updated>
     <id>http://xs4some.nl/blog/2009/07/05/expected-half-december</id>
     <content type="html"><![CDATA[<p><img class="size-full wp-image-154 alignnone" src="http://www.xs4some.nl/log/uploads/2009/07/20090603-echo_2.png" alt="Echo" width="425" height="321"/></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Our holiday to Tuscany]]></title>
-    <link href="http://xs4some.nl/blog/2009/06/02/our-holiday-to-tuscany/"/>
-    <updated>2009-06-02T00:00:00+02:00</updated>
-    <id>http://xs4some.nl/blog/2009/06/02/our-holiday-to-tuscany</id>
-    <content type="html"><![CDATA[<p>Last week we went on a holiday to Tuscany. Pictures can be found <a title="Tuscany 2009" href="http://www.xs4some.nl/foto/Feauteau/Toscane_mei_2009.html">here</a>.</p>
 ]]></content>
   </entry>
   
