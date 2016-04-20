@@ -131,22 +131,22 @@
 <span class='line-number'>14</span>
 <span class='line-number'>15</span>
 <span class='line-number'>16</span>
-</pre></td><td class='code'><pre><code class='objc'><span class='line'><span class="n">UISwipeGestureRecognizer</span> <span class="o">*</span><span class="n">swipeRight</span> <span class="o">=</span> <span class="p">[[</span><span class="n">UISwipeGestureRecognizer</span> <span class="n">alloc</span><span class="p">]</span><span class="nl">initWithTarget:</span><span class="n">self</span> <span class="nl">action:</span><span class="k">@selector</span><span class="p">(</span><span class="nl">swipeRightAction:</span><span class="p">)];</span>
+</pre></td><td class='code'><pre><code class='objc'><span class='line'><span class="bp">UISwipeGestureRecognizer</span> <span class="o">*</span><span class="n">swipeRight</span> <span class="o">=</span> <span class="p">[[</span><span class="bp">UISwipeGestureRecognizer</span> <span class="n">alloc</span><span class="p">]</span><span class="nl">initWithTarget</span><span class="p">:</span><span class="nb">self</span> <span class="nl">action</span><span class="p">:</span><span class="k">@selector</span><span class="p">(</span><span class="nl">swipeRightAction</span><span class="p">:)];</span>
 </span><span class='line'>
 </span><span class='line'><span class="n">swipeRight</span><span class="p">.</span><span class="n">direction</span> <span class="o">=</span> <span class="n">UISwipeGestureRecognizerDirectionRight</span><span class="p">;</span>
 </span><span class='line'>
-</span><span class='line'><span class="n">swipeRight</span><span class="p">.</span><span class="n">delegate</span> <span class="o">=</span> <span class="n">self</span><span class="p">;</span>
+</span><span class='line'><span class="n">swipeRight</span><span class="p">.</span><span class="n">delegate</span> <span class="o">=</span> <span class="nb">self</span><span class="p">;</span>
 </span><span class='line'>
-</span><span class='line'><span class="p">[</span><span class="n">self</span><span class="p">.</span><span class="n">view</span> <span class="nl">addGestureRecognizer:</span><span class="n">swipeRight</span><span class="p">];</span>
+</span><span class='line'><span class="p">[</span><span class="nb">self</span><span class="p">.</span><span class="n">view</span> <span class="nl">addGestureRecognizer</span><span class="p">:</span><span class="n">swipeRight</span><span class="p">];</span>
 </span><span class='line'>
 </span><span class='line'>
-</span><span class='line'><span class="n">UISwipeGestureRecognizer</span> <span class="o">*</span><span class="n">swipeLeft</span> <span class="o">=</span> <span class="p">[[</span><span class="n">UISwipeGestureRecognizer</span> <span class="n">alloc</span><span class="p">]</span><span class="nl">initWithTarget:</span><span class="n">self</span> <span class="nl">action:</span><span class="k">@selector</span><span class="p">(</span><span class="nl">swipeLeftAction:</span><span class="p">)];</span>
+</span><span class='line'><span class="bp">UISwipeGestureRecognizer</span> <span class="o">*</span><span class="n">swipeLeft</span> <span class="o">=</span> <span class="p">[[</span><span class="bp">UISwipeGestureRecognizer</span> <span class="n">alloc</span><span class="p">]</span><span class="nl">initWithTarget</span><span class="p">:</span><span class="nb">self</span> <span class="nl">action</span><span class="p">:</span><span class="k">@selector</span><span class="p">(</span><span class="nl">swipeLeftAction</span><span class="p">:)];</span>
 </span><span class='line'>
 </span><span class='line'><span class="n">swipeLeft</span><span class="p">.</span><span class="n">direction</span> <span class="o">=</span> <span class="n">UISwipeGestureRecognizerDirectionLeft</span><span class="p">;</span>
 </span><span class='line'>
-</span><span class='line'><span class="n">swipeLeft</span><span class="p">.</span><span class="n">delegate</span> <span class="o">=</span> <span class="n">self</span><span class="p">;</span>
+</span><span class='line'><span class="n">swipeLeft</span><span class="p">.</span><span class="n">delegate</span> <span class="o">=</span> <span class="nb">self</span><span class="p">;</span>
 </span><span class='line'>
-</span><span class='line'><span class="p">[</span><span class="n">self</span><span class="p">.</span><span class="n">view</span> <span class="nl">addGestureRecognizer:</span><span class="n">swipeLeft</span><span class="p">];</span>
+</span><span class='line'><span class="p">[</span><span class="nb">self</span><span class="p">.</span><span class="n">view</span> <span class="nl">addGestureRecognizer</span><span class="p">:</span><span class="n">swipeLeft</span><span class="p">];</span>
 </span></code></pre></td></tr></table></div></figure>
 </div>
 
