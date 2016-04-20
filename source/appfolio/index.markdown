@@ -9,7 +9,19 @@ footer: true
 I worked on mobile projects for the following companies
 ------------------------------------------------
 
-<p><a href="http://www.dsw.nl"><img src="/images/jobs/dsw.png" alt="DSW" /></a><a href="http://www.sheerenloo.nl/"><img src="/images/jobs/sheerenloo.png" alt="'s Heerenloo" /></a><a href="http://www.stadholland.nl/"><img src="/images/jobs/stadholland.png" alt="Stad Holland" /></a><a href="http://www.icscards.nl"><img src="/images/jobs/ics.png" alt="International Card Services" /></a><a href="http://www.sogeti.nl"><img src="/images/jobs/sogeti.png" alt="Sogeti" /></a><a href="http://www.q-park.nl"><img src="/images/jobs/q-park.png" alt="Q-Park" /></a><a href="http://www.philips.com"><img src="/images/jobs/philips.png" alt="Philips" /></a></p>
+[![DSW](/images/jobs/dsw.png)](http://www.dsw.nl)
+
+[!['s Heerenloo](/images/jobs/sheerenloo.png)](http://www.sheerenloo.nl/)
+
+[![Stad Holland](/images/jobs/stadholland.png)](http://www.stadholland.nl/)
+
+[![International Card Services](/images/jobs/ics.png)](http://www.icscards.nl)
+
+[![Sogeti](/images/jobs/sogeti.png)](http://www.sogeti.nl)
+
+[![Q-Park](/images/jobs/q-park.png)](http://www.q-park.nl)
+
+[![Philips](/images/jobs/philips.png)](http://www.philips.com)
 
 Skills
 ------
@@ -18,7 +30,5 @@ Skills
 * Objective-C
 * Xcode
 * JSON/Rest
-* XML
-* SOAP
 * Git
 * Git-flow
