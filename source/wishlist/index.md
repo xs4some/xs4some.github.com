@@ -8,7 +8,7 @@ footer: true
 
 The following are on my wish list
 
-* [Private Pilot Licence][ppl]
+* [Private Pilot Licence][ppl]: Started, about 15 hours in! Not sure yet if I still want to pursue thie.
 * See the blue globe from above
 
 
